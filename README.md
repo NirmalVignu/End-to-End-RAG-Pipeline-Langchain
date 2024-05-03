@@ -1,4 +1,5 @@
 ## End to End RAG Pipeline using Langchain and GROQ
+![image](https://github.com/NirmalVignu/End-to-End-RAG-Pipeline-Langchain/assets/70325804/c49e1a24-9c34-4e22-9623-0ff34efa31dd)
 
 ## Usage
 
